@@ -9,7 +9,7 @@ Data Guy, working primarily in Python, with a lot of life experience, including 
 - **Databases**: PostgreSQL, SQLite, mongoDB
 - **Web**: Flask, Plotly Dash, HTML5, CSS, BeautifulSoup (Web Scraping)
 - **Machine Learning**: Supervised and Unsupervised, Neural Networks, Scikit-learn, Keras, TensorFlow
-- **Development Tools**: Visual Studio Code, Google Colab, GitHub, ChatGPT
+- **Development Tools**: Visual Studio Code, Google Colab, Git, GitHub, ChatGPT
 
 <!--
 **johbry17/johbry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
