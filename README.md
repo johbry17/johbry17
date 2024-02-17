@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-### Will add bio later
+Data Guy with a lot of life experience, including two Master's degrees in international development, natural resource management, and sustainable tourism.
 
 <!--
 **johbry17/johbry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
