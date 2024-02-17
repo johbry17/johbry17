@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Data Guy with a lot of life experience, including two Master's degrees in international development, natural resource management, and sustainable tourism.
+Data Guy with a lot of life experience, including two Master's degrees in international development, natural resource management, and sustainable tourism. I've wandered all over the world (five continents thus far), and became quite the bartender while I was at it (so, best friend, therapist, spiritual counselor, matchmaker, all-around dispenser of wisdom and kindness, etc.). I'm looking to use data to help people either enjoy the world or improve the world.
 
 <!--
 **johbry17/johbry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
