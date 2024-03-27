@@ -1,6 +1,4 @@
-### Hello World 👋
-
-Data Guy, working primarily in Python, with a lot of life experience, including two Master's degrees in international development, natural resource management, and sustainable tourism. I've wandered all over the world (five continents thus far), and became quite the bartender while I was at it (so, best friend, therapist, spiritual counselor, matchmaker, all-around dispenser of wisdom and kindness, etc.). I'm looking to use data to help this world that I so love.
+Data analyst and visualization specialist, working primarily in Python, with a lot of life experience, including two Master's degrees in international development, natural resource management, and sustainable tourism. I've wandered all over the world (five continents thus far), and became quite the bartender while I was at it (so, best friend, therapist, spiritual counselor, matchmaker, all-around dispenser of wisdom and kindness, etc.). I'm looking to use data to help this world that I so love.
 
 “I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.” - E.B. White
 
