@@ -2,7 +2,7 @@ Data analyst and visualization specialist, working primarily in Python, with a l
 
 “I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.” - E.B. White
 
-- **Languages**: C, Python, JavaScript
+- **Languages**: C, Python, JavaScript, R
 - **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, D3, Leaflet, Tableau
 - **Databases**: PostgreSQL, SQLite, mongoDB
 - **Web**: Flask, Plotly Dash, HTML5, CSS, BeautifulSoup (Web Scraping)
