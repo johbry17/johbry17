@@ -2,12 +2,12 @@ Data analyst and visualization specialist, working primarily in Python, with a l
 
 “I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.” - E.B. White
 
-- **Languages**: C, Python, JavaScript, R
-- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, D3, Leaflet, Tableau
+- **Programming Languages**: Python, R, SQL, C, JavaScript
+- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, D3.js, Tableau
 - **Databases**: PostgreSQL, SQLite, mongoDB
-- **Web**: Flask, Plotly Dash, HTML5, CSS, BeautifulSoup (Web Scraping)
-- **Machine Learning**: Supervised and Unsupervised, Neural Networks, Scikit-learn, Keras, TensorFlow
-- **Development Tools**: Visual Studio Code, Jupyter Notebook, Google Colab, Git, GitHub, ChatGPT
+- **Web Development**: Flask, Django, Plotly Dash, HTML5, CSS, Sass, Beautiful Soup
+- **Machine Learning**: Scikit-learn, Keras, TensorFlow
+- **Development Tools**: Visual Studio Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
 
 <!--
 **johbry17/johbry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
