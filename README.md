@@ -9,6 +9,9 @@ Data analyst and visualization specialist, working primarily in Python, with a l
 - **Machine Learning**: Scikit-learn, Keras, TensorFlow
 - **Development Tools**: Visual Studio Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
 
+<a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a>
+
+
 <!--
 **johbry17/johbry17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
