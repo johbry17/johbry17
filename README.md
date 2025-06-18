@@ -5,8 +5,8 @@ I am a data analyst and visualization specialist driven by curiosity, creativity
 - **Programming Languages**: Python, R, SQL, C, JavaScript
 - **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, D3.js, Tableau
 - **Databases**: PostgreSQL, SQLite, mongoDB
-- **Web Development**: Flask, Django, Plotly Dash, HTML5, CSS, Sass, Beautiful Soup
-- **Machine Learning**: Scikit-learn, Keras, TensorFlow
+- **Web Development**: Flask, Django, Dash, HTML5, CSS/Sass, Beautiful Soup
+- **Machine Learning**: Scikit-learn, XGBoost, SHAP, Keras, TensorFlow
 - **Development Tools**: Visual Studio Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
 
 <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a>
