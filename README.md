@@ -14,7 +14,7 @@ When I'm not doing that, I'm probably devouring books, tending a garden, chasing
 - **Machine Learning**: Scikit-learn, XGBoost, SHAP, Keras, TensorFlow
 - **Development Tools**: Visual Studio Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
 
-<a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a>
+Check out my <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">portfolio</a>.
 
 <!--
 By day, I wrangle data. By night (and weekends), I’m an explorer—of books, trails, cities, and ideas. I'm a data analyst and visualization specialist who thrives on learning, solving, and making the complex clear. My path has taken me through two Master’s degrees, five continents, countless datasets, and a surprising number of cocktail shakers. Each step sharpened my people skills, problem-solving mindset, and thirst for understanding.
