@@ -8,7 +8,7 @@ I'm a data analyst and visualization geek with a generalist's brain, a traveler'
 When I'm not doing that, I'm probably devouring books, tending a garden, chasing sunlight across continents, or wandering through a new city with curiosity as my compass.
 
 - **Programming Languages**: Python, R, SQL, C, JavaScript
-- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, D3.js, Tableau
+- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, Tableau
 - **Databases**: PostgreSQL, SQLite, mongoDB
 - **Web Development**: Flask, Django, Dash, HTML5, CSS/Sass, Beautiful Soup
 - **Machine Learning**: Scikit-learn, XGBoost, SHAP, Keras, TensorFlow
@@ -20,6 +20,12 @@ Check out my <a href="https://johbry17.github.io/portfolio/index.html" target="_
 By day, I wrangle data. By night (and weekends), I’m an explorer—of books, trails, cities, and ideas. I'm a data analyst and visualization specialist who thrives on learning, solving, and making the complex clear. My path has taken me through two Master’s degrees, five continents, countless datasets, and a surprising number of cocktail shakers. Each step sharpened my people skills, problem-solving mindset, and thirst for understanding.
 
 I’m happiest where curiosity meets impact—and where data can help us understand and improve the world we live in.
+-->
+
+<!--
+I’m a data analyst and visualization specialist with a passion for uncovering insights and solving meaningful problems. A curious and detail-oriented generalist, I work primarily in Python and bring a broad analytical toolkit to the table. My background spans two advanced degrees, global experience across five continents, and a decade in hospitality—sharpening my communication, adaptability, and people skills. I specialize in turning complexity into clarity, bridging data and decision-making.
+
+Outside of work, I recharge through reading, travel, hiking, and exploring new places. I’m always learning—whether through a great book, a bike ride, or a new dataset.
 -->
 
 <!--
