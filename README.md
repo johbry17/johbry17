@@ -3,18 +3,34 @@ I am a data analyst and visualization specialist driven by curiosity, creativity
 
 “I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.” - E.B. White
 -->
-I'm a data analyst and visualization geek with a generalist's brain, a traveler's soul, and a bartender’s heart. I love puzzles—especially the kind hidden inside messy datasets. With Python in one hand and Plotly in the other, I bring structure to chaos and tell stories with data that people actually want to read.
 
-When I'm not doing that, I'm probably devouring books, tending a garden, chasing sunlight across continents, or wandering through a new city with curiosity as my compass.
+<!-- I'm a data analyst and visualization geek with a generalist's brain, a traveler's soul, and a bartender’s heart. I love puzzles—especially the kind hidden inside messy datasets. With Python in one hand and Plotly in the other, I bring structure to chaos and tell stories with data that people actually want to read.
+
+When I'm not doing that, I'm probably devouring books, tending a garden, chasing sunlight across continents, or wandering through a new city with curiosity as my compass. -->
+
+I'm a data analyst and visualization nerd with a generalist's curiosity, a traveler's wonder, and a bartender’s rapport. 
+
+I approach data like a translator, blending analytical rigor with the emotional clarity of storytelling to bridge insight and audience, helping it click with anyone reading. 
+
+My projects are hands-on, thoughtful, and well-documented—designed not just to solve problems, but to communicate them clearly. I care as much about the *why* as the *how*.
+
+Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. I get lost—happily—in mountain switchbacks, shoreline strolls, and neighborhoods both old and new.
+
+<!-- <details> -->
+<summary>📊 Skills Summary</summary>
 
 - **Programming Languages**: Python, R, SQL, C, JavaScript
 - **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, Tableau
-- **Databases**: PostgreSQL, SQLite, mongoDB
+- **Databases**: PostgreSQL, SQLite, MongoDB
 - **Web Development**: Flask, Django, Dash, HTML5, CSS/Sass, Beautiful Soup
 - **Machine Learning**: Scikit-learn, XGBoost, SHAP, Keras, TensorFlow
-- **Development Tools**: Visual Studio Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
+- **Development Tools**: VS Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
+<!-- </details> -->
 
-Check out my <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">portfolio</a>.
+🔗 Check out my <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">portfolio</a>.  
+📄 Download my <a href="./Johns_Bryan_C_CV.pdf" target="_blank">resume (PDF)</a>  
+📧 [Email](mailto:bryan.johns.official@gmail.com) me •
+Connect on [LinkedIn](https://linkedin.com/in/b-johns)
 
 <!--
 By day, I wrangle data. By night (and weekends), I’m an explorer—of books, trails, cities, and ideas. I'm a data analyst and visualization specialist who thrives on learning, solving, and making the complex clear. My path has taken me through two Master’s degrees, five continents, countless datasets, and a surprising number of cocktail shakers. Each step sharpened my people skills, problem-solving mindset, and thirst for understanding.
