@@ -10,14 +10,14 @@ When I'm not doing that, I'm probably devouring books, tending a garden, chasing
 
 I'm a data analyst and visualization nerd with a generalist's curiosity, a traveler's wonder, and a bartender’s rapport. 
 
-I approach data like a translator, blending analytical rigor with the emotional clarity of storytelling to bridge insight and audience, helping it click with anyone reading. 
+I approach data like a translator, blending analytical rigor with the emotional clarity of storytelling to bridge insight and audience, helping it click with anyone reading. My projects are hands-on, thoughtful, and well-documented—designed not just to solve problems, but to communicate them clearly. I care as much about the *why* as the *how*. 
 
-My projects are hands-on, thoughtful, and well-documented—designed not just to solve problems, but to communicate them clearly. I care as much about the *why* as the *how*.
+Lately, I’ve turned that same lens toward machine learning, working to make predictive models as understandable as they are powerful.
 
-Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. I get lost—happily—in mountain switchbacks, shoreline strolls, and neighborhoods both old and new.
+Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.
 
 <!-- <details> -->
-<summary>📊 Skills Summary</summary>
+<strong>📊 Skills Summary</strong>
 
 - **Programming Languages**: Python, R, SQL, C, JavaScript
 - **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, Tableau
@@ -29,7 +29,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 
 🔗 Check out my <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">portfolio</a>.  
 📄 Download my <a href="./Johns_Bryan_C_CV.pdf" target="_blank">resume (PDF)</a>  
-📧 [Email](mailto:bryan.johns.official@gmail.com) me •
+📫 [Email](mailto:bryan.johns.official@gmail.com) me •
 Connect on [LinkedIn](https://linkedin.com/in/b-johns)
 
 <!--
