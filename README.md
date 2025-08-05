@@ -18,12 +18,13 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 
 <!-- <details> -->
 <strong>📊 Tools & Technologies</strong> 
-- **Programming Languages**: Python, R, SQL, C, JavaScript
-- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly, Tableau
+- **Languages**: Python, R, SQL, JavaScript
+- **Visualization**: Matplotlib, Seaborn, Plotly, Leaflet, ggplot2, Tableau
+- **Machine Learning**: scikit-learn, XGBoost, SHAP
+- **Data Wrangling & EDA**: pandas, NumPy, Tidyverse
 - **Databases**: PostgreSQL, SQLite, MongoDB
-- **Web Development**: Flask, Django, Dash, HTML5, CSS/Sass, Beautiful Soup
-- **Machine Learning**: Scikit-learn, XGBoost, SHAP, Keras, TensorFlow
-- **Development Tools**: VS Code, RStudio, Jupyter Notebook, Google Colab, Git, GitHub
+- **Web Dev & Scraping**: Flask, Django, REST APIs, Beautiful Soup
+- **Dev Tools**: Git, Jupyter, RStudio, VS Code
 <!-- </details> -->
 
 🔗 <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank">Resume</a> | 📫 <a href="mailto:bryan.johns.official@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank">LinkedIn</a>
