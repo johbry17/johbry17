@@ -16,8 +16,10 @@ Lately, I’ve turned that same lens toward machine learning, working to make pr
 
 Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.
 
+---
+
 <!-- <details> -->
-<strong><u>Tools & Technologies</u></strong> 
+<strong>Tools & Technologies</strong> 
 - **Languages**: Python, R, SQL, JavaScript
 - **Visualization**: Matplotlib, Seaborn, Plotly, Leaflet, ggplot2, Tableau
 - **Machine Learning**: scikit-learn, XGBoost, SHAP
@@ -26,6 +28,8 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 - **Web Dev & Scraping**: Flask, Django, REST APIs, Beautiful Soup
 - **Dev Tools**: Git, Jupyter, RStudio, VS Code
 <!-- </details> -->
+
+---
 
 🔗 <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank">Resume</a> | 📫 <a href="mailto:bryan.johns.official@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank">LinkedIn</a>
 
