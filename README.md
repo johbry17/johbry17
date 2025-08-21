@@ -17,7 +17,7 @@ Lately, I’ve turned that same lens toward machine learning, working to make pr
 Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.
 
 <!-- <details> -->
-<strong>Tools & Technologies</strong> 
+<strong><u>Tools & Technologies</u></strong> 
 - **Languages**: Python, R, SQL, JavaScript
 - **Visualization**: Matplotlib, Seaborn, Plotly, Leaflet, ggplot2, Tableau
 - **Machine Learning**: scikit-learn, XGBoost, SHAP
