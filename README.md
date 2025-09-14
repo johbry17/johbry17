@@ -22,7 +22,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 <strong>Tools & Technologies</strong> 
 - **Languages**: Python, R, SQL, JavaScript
 - **Visualization**: Matplotlib, Seaborn, Plotly, Leaflet, ggplot2, Tableau
-- **Machine Learning**: scikit-learn, XGBoost, SHAP
+- **Machine Learning**: scikit-learn, XGBoost, SHAP, TensorFlow, Keras
 - **Data Wrangling & EDA**: pandas, NumPy, Tidyverse
 - **Databases**: PostgreSQL, SQLite, MongoDB
 - **Web Dev & Scraping**: Flask, Django, REST APIs, Beautiful Soup
