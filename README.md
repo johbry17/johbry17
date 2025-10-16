@@ -31,7 +31,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 
 ---
 
-🔗 <a href="https://johbry17.github.io/portfolio/index.html" target="_blank">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank">Resume</a> | 📫 <a href="mailto:bryan.johns.official@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank">LinkedIn</a>
+🔗 <a href="https://informedwanderer.com" target="_blank">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank">Resume</a> | 📫 <a href="mailto:bryan.johns@informedwanderer.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank">LinkedIn</a>
 
 <!--
 By day, I wrangle data. By night (and weekends), I’m an explorer—of books, trails, cities, and ideas. I'm a data analyst and visualization specialist who thrives on learning, solving, and making the complex clear. My path has taken me through two Master’s degrees, five continents, countless datasets, and a surprising number of cocktail shakers. Each step sharpened my people skills, problem-solving mindset, and thirst for understanding.
