@@ -8,11 +8,17 @@ I am a data analyst and visualization specialist driven by curiosity, creativity
 
 When I'm not doing that, I'm probably devouring books, tending a garden, chasing sunlight across continents, or wandering through a new city with curiosity as my compass. -->
 
-I'm a data analyst and visualization nerd with a generalist's curiosity, a traveler's wonder, and a bartender’s rapport. 
+<!-- I'm a data analyst and visualization nerd with a generalist's curiosity, a traveler's wonder, and a bartender’s rapport. 
 
 I approach data like a translator, blending analytical rigor with the emotional clarity of storytelling to bridge insight and audience, helping it click with anyone reading. My projects are hands-on, thoughtful, and well-documented—designed not just to solve problems, but to communicate them clearly. I care as much about the *why* as the *how*. 
 
 Lately, I’ve turned that same lens toward machine learning, working to make predictive models as understandable as they are powerful.
+
+Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new. -->
+
+I’m a data analyst and visualization enthusiast blending analytical rigor with the empathy of storytelling. I approach data like a translator—connecting signal and story so insight clicks for anyone reading. My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute.
+
+I work in Python, SQL, and R, with a growing focus on machine learning—making predictive models as understandable as they are powerful.
 
 Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.
 
