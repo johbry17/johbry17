@@ -16,7 +16,7 @@ Lately, I’ve turned that same lens toward machine learning, working to make pr
 
 Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new. -->
 
-I’m a data analyst and visualization enthusiast blending analytical rigor with the empathy of storytelling. I approach data like a translator—connecting signal and story so insight clicks for anyone reading. My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute.
+I’m a data analyst and visualization practitioner blending analytical rigor with the empathy of storytelling. I approach data like a translator—connecting signal and story so insight clicks for anyone reading. My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute.
 
 I work in Python, SQL, and R, with a growing focus on machine learning—making predictive models as understandable as they are powerful.
 
@@ -25,7 +25,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 ---
 
 <!-- <details> -->
-<strong>Tools & Technologies</strong> 
+<strong>Tech Stack</strong> 
 - **Languages**: Python, R, SQL, JavaScript
 - **Visualization**: Matplotlib, Seaborn, Plotly, Leaflet, ggplot2, Tableau
 - **Machine Learning**: scikit-learn, XGBoost, SHAP, TensorFlow/Keras
