@@ -19,7 +19,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 ## Bryan C. Johns — Data Storyteller & Analyst  
 ### Helping Data Speak Your Language
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
@@ -28,11 +28,9 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
   <!-- <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" /> -->
 </p>
 
+**Open to contract & full‑time opportunities — [Email](mailto:bryan.johns@informedwanderer.com)**  
+
 > I build reproducible analyses and visualizations that communicate clearly and compute reliably.
-
-**Open to contract & full‑time opportunities — [Email](mailto:bryan.johns@informedwanderer.com)**
-
----
 
 ### Featured projects
 - **Classified: At-Risk** — ML pipeline predicting employee turnover (recall-focused). [Repo](https://github.com/johbry17/Salifort-Employee-Churn-ml) / [portfolio page](https://informedwanderer.com/templates/salifort-employee-churn.html)  
@@ -40,7 +38,7 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 - **Capital Crashpad** — SQL-powered dashboard exploring D.C.'s Airbnb market. [Repo](https://github.com/johbry17/dc-airbnb-data) / [portfolio page](https://informedwanderer.com/templates/dc-airbnb.html)  
 - **Waypoints** — Geospatial travel memoir built with Leaflet and Python.  [Repo](https://github.com/johbry17/Waypoints-A-Personal-BioGeography) / [portfolio page](https://informedwanderer.com/templates/waypoints.html)  
 
----
+<br>
 
 <details>
 <summary><strong>Tech Stack</strong><br><sub>Click to expand ↓</sub></summary><br>
@@ -52,11 +50,10 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 - **Databases**: PostgreSQL, SQLite, MongoDB
 - **Web Dev & Scraping**: Flask, Django, REST APIs, Beautiful Soup
 - **Dev Tools**: Git, Jupyter, RStudio, VS Code
-<br><br>
 
 </details>
 
----
+<br>
 
 <details>
 <summary><strong>About</strong><br><sub>Click to expand ↓</sub></summary><br>
@@ -67,17 +64,17 @@ My path to data ran through global development, environmental policy, and hospit
 
 My projects are thoughtful, reproducible, and well-documented — designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning: building predictive models that are as understandable as they are powerful.  
 
-Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new. 
-<br><br> 
+Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.  
 
 </details>
 
----
+<br>
 
 ### Quick links
 
 🔗 <a href="https://informedwanderer.com" target="_blank">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank">Resume</a> | 📫 <a href="mailto:bryan.johns@informedwanderer.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank">LinkedIn</a>
-<br><br>
+
+<!-- <br> -->
 
 ---
 
