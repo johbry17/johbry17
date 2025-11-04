@@ -2,7 +2,7 @@
 
 ### Helping Data Speak Your Language
 
-Bringing a global lens and systems mindset, I translate complex data into reproducible analyses and production-ready visuals—so teams can focus on decisions, not paperwork. <em>Fluent in Data. Fluent in Human.</em>
+With a global lens and systems mindset, I translate complex data into reproducible analyses and production-ready visuals, so teams can focus on decisions, not paperwork. <em>Fluent in Data. Fluent in Human.</em>
 
 **Open to contract & full‑time opportunities — [Email](mailto:bryan.johns@informedwanderer.com)**
 
@@ -10,7 +10,7 @@ Core tools: Python · SQL · R
 
 ---
 
-Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad** — <small><em>expand ↓ for case studies</em></small>
+Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad**. <small><em>Expand ↓ for case studies</em></small>
 
 <details id="featured-projects">
   <summary aria-label="Featured projects — expand to read case studies, technologies and impact">
@@ -45,7 +45,7 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
   <a href="https://github.com/johbry17/Waypoints-A-Personal-BioGeography" target="_blank" rel="noopener noreferrer">Repo</a>
   /
   <a href="https://informedwanderer.com/templates/waypoints.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
-  Impact: Showcases end‑to‑end geospatial pipelines, API integration, and mobile‑first map UX—demonstrating technical depth and personal data storytelling.
+  Impact: Showcases end‑to‑end geospatial pipelines, API integration, and mobile‑first map UX, demonstrating technical depth and personal data storytelling.
 
 <br>
 
@@ -79,11 +79,13 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
 
 I’m a data analyst and visualization practitioner blending analytical rigor with storytelling empathy.
 
-My path to data ran through global development, environmental policy, and hospitality — experiences that taught me to see systems and read people. I approach data like a translator—connecting signal and story so insight lands clearly, whatever the audience.
+My path to data ran through global development, environmental policy, and hospitality, experiences that taught me to see systems and read people. I approach data like a translator, connecting signal and story so insight lands clearly, whatever the audience.
 
-My projects are thoughtful, reproducible, and well-documented — designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning: building predictive models that are as understandable as they are powerful.
+My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning: building predictive models that are as understandable as they are powerful.
 
-Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine across continents. You’ll often find me happily lost in mountain switchbacks, shoreline strolls, or neighborhoods old and new.
+Beyond the pixels, I grow things, chase sunlight across continents, and get happily lost in novels, neighborhoods, and mountain switchbacks. Always learning: one book, one walk, one small project at a time.
+
+
 
 <br>
 
@@ -92,8 +94,6 @@ Beyond the pixels, I read widely, nurture a thriving garden, and chase sunshine 
 <br>
 
 🔗 <a href="https://informedwanderer.com" target="_blank" rel="noopener noreferrer">Portfolio</a> | 📄 <a href="./Johns_Bryan_C_CV.pdf" target="_blank" rel="noopener noreferrer">Resume</a> | 📫 <a href="mailto:bryan.johns@informedwanderer.com">Email</a> | 🔗 <a href="https://linkedin.com/in/b-johns" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-
-<!-- <br> -->
 
 ---
 
