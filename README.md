@@ -10,7 +10,7 @@ Core tools: Python · SQL · R
 
 ---
 
-Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad**. • <small><em>Expand ↓ for case studies</em></small>
+Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad**. <small><em>Expand ↓ for case studies</em></small>
 
 <details id="featured-projects">
   <summary aria-label="Featured projects — expand to read case studies, technologies and impact">
