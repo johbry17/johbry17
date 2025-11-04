@@ -79,7 +79,7 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
 
 I’m a data analyst and visualization practitioner blending analytical rigor with storytelling empathy.
 
-My path to data ran through global development, environmental policy, and hospitality, experiences that taught me to see systems and read people. I approach data like a translator, connecting signal and story so insight lands clearly, whatever the audience.
+My path to data ran through global development, environmental policy, and hospitality. Those experiences taught me to see systems and read people. I approach data like a translator, connecting signal and story so insight lands clearly—whatever the audience.
 
 My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning: building predictive models that are as understandable as they are powerful.
 
