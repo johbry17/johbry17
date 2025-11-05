@@ -1,3 +1,6 @@
+
+![Masthead](./images/masthead_github_v3.png)
+
 # Bryan C. Johns — Data Storyteller & Analyst
 
 ### Helping Data Speak Your Language
