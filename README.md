@@ -26,28 +26,28 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
   _Tech: Python · scikit‑learn · XGBoost · SHAP · pandas_  
   <a href="https://github.com/johbry17/Salifort-Employee-Churn-ml" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/templates/salifort-employee-churn.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/salifort-employee-churn.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Model achieved 96.7% accuracy (94% recall, 87% precision); identified high‑risk groups by tenure, workload, and satisfaction—actionable for HR.
 
 - **Cyclistic Analytics** — R‑based analysis of 5.8M rides to uncover rider behavior and segmentation for targeted strategy.  
   _Tech: R · tidyverse · R Markdown · ggplot2_  
   <a href="https://github.com/johbry17/Cyclistic-Analytics" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/templates/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Found casual riders averaged ~20‑minute weekend rides vs members’ ~12‑minute commutes; surfaced e‑bike adoption and geographic segments used to inform targeted marketing.
 
 - **Capital Crashpad** — SQL‑driven dashboard mapping pricing and occupancy trends in Washington, DC’s short‑term rental market.  
   _Tech: Python · PostgreSQL · Django · Leaflet.js_  
   <a href="https://github.com/johbry17/dc-airbnb-data" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/templates/dc-airbnb.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/dc-airbnb.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Delivered an interactive tool enabling policymakers and hosts to explore regulatory and market dynamics.
 
 - **Waypoints** — Interactive geospatial memoir mapping journeys across continents; layers routes, photos, and narrative into an exploratory travelogue.  
   _Tech: Python · Leaflet · Overpass · OpenRouteService · GeoJSON_  
   <a href="https://github.com/johbry17/Waypoints-A-Personal-BioGeography" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/templates/waypoints.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/waypoints.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Showcases end‑to‑end geospatial pipelines, API integration, and mobile‑first map UX, demonstrating technical depth and personal data storytelling.
 
 <br>
