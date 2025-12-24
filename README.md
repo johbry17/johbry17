@@ -68,6 +68,7 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
 - **Databases**: PostgreSQL, SQLite, MongoDB
 - **Web Dev & Scraping**: Flask, Django, REST APIs, Beautiful Soup
 - **Dev Tools**: Git, Jupyter, RStudio, VS Code
+- **Supporting Tools:** Excel, Google Sheets, PowerPoint
 
 <br>
 
