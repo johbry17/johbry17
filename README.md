@@ -3,9 +3,11 @@
 
 # Bryan C. Johns — Data Storyteller & Analyst
 
-### Helping Data Speak Your Language
+### Fluent in Data. Fluent in Human.
 
-With a global lens and systems mindset, I translate complex data into reproducible analyses and production-ready visuals, so teams can focus on decisions, not paperwork. <em>Fluent in Data. Fluent in Human.</em>
+I help people understand the world so they can take better care of it.
+
+With a global perspective and systems mindset, I translate complex data into clear,  actionable analyses and visual stories that support real decisions—especially in mission-driven, interdisciplinary, or resource-constrained environments.
 
 **Open to contract & full‑time opportunities — [Email](mailto:bryan.johns@informedwanderer.com)**
 
@@ -85,7 +87,7 @@ I’m a data analyst and visualization practitioner blending analytical rigor wi
 
 My path to data ran through global development, environmental policy, and hospitality. Those experiences taught me to see systems and read people. I approach data like a translator, connecting signal and story so insight lands clearly—whatever the audience.
 
-My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning: building predictive models that are as understandable as they are powerful.
+My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning.
 
 Beyond the pixels, I grow things, chase sunlight across continents, and get happily lost in novels, neighborhoods, and mountain switchbacks. Always learning: one book, one walk, one small project at a time.
 
@@ -101,7 +103,7 @@ Beyond the pixels, I grow things, chase sunlight across continents, and get happ
 
 ---
 
-<p align="center"><em>Data fluent, human literate.</em></p>
+<p align="center"><em>Using data not just to understand the world, but to improve it.</em></p>
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
