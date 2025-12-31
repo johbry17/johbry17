@@ -87,7 +87,7 @@ I’m a data analyst and visualization practitioner blending analytical rigor wi
 
 My path to data ran through global development, environmental policy, and hospitality. Those experiences taught me to see systems and read people. I approach data like a translator, connecting signal and story so insight lands clearly—whatever the audience.
 
-My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, with a growing focus on machine learning.
+My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, applying machine learning approaches and powerful visualization tools as needed.
 
 Beyond the pixels, I grow things, chase sunlight across continents, and get happily lost in novels, neighborhoods, and mountain switchbacks. Always learning: one book, one walk, one small project at a time.
 
