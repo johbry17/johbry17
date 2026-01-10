@@ -40,9 +40,9 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
 
 - **Capital Crashpad** — SQL‑driven dashboard mapping pricing and occupancy trends in Washington, DC’s short‑term rental market.  
   _Tech: Python · PostgreSQL · Django · Leaflet.js_  
-  <a href="https://github.com/johbry17/dc-airbnb-data" target="_blank" rel="noopener noreferrer">Repo</a>
+  <a href="https://github.com/johbry17/Capital-Crashpad" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/workshop/dc-airbnb.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/capital-crashpad.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Delivered an interactive tool enabling policymakers and hosts to explore regulatory and market dynamics.
 
 - **Waypoints** — Interactive geospatial memoir mapping journeys across continents; layers routes, photos, and narrative into an exploratory travelogue.  
