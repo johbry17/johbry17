@@ -31,7 +31,7 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
   <a href="https://informedwanderer.com/workshop/salifort-employee-churn.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Model achieved 96.7% accuracy (94% recall, 87% precision); identified high‑risk groups by tenure, workload, and satisfaction—actionable for HR.
   
-- **Capital Crashpad** — Structural analysis dashboard examining enforcement-driven shifts in Washington, DC’s short-term rental market. 
+- **Capital Crashpad** — Structural analysis dashboard examining enforcement-driven shifts in Washington, DC’s short-term rental market.  
   _Tech: Python · PostgreSQL · Django · Leaflet.js · pandas_  
   <a href="https://github.com/johbry17/Capital-Crashpad" target="_blank" rel="noopener noreferrer">Repo</a>
   /
