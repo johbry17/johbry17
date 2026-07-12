@@ -15,7 +15,7 @@ Core tools: Python · SQL · R
 
 ---
 
-Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad**. <small><em>Expand ↓ for case studies</em></small>
+Top work: **Floodlines** · flood risk & federal mitigation policy, **Classified: At‑Risk** · employee attrition, **Capital Crashpad** · housing market enforcement. <small><em>Expand ↓ for case studies</em></small>
 
 <details id="featured-projects">
   <summary aria-label="Featured projects — expand to read case studies, technologies and impact">
@@ -23,6 +23,13 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
   </summary>
 
 <br>
+
+- **Floodlines** — Policy-focused spatial analysis integrating FEMA flood risk, Census demographics, and federal mitigation funding to evaluate whether investment aligns with forward-looking community need across Vermont.  
+  _Tech: Python · GeoPandas · Leaflet.js · D3.js · FEMA OpenFEMA · U.S. Census ACS_  
+  <a href="https://github.com/johbry17/Floodlines" target="_blank" rel="noopener noreferrer">Repo</a>
+  /
+  <a href="https://informedwanderer.com/workshop/floodlines.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  Impact: Developed a transparent need index and lightweight screening tool that identified communities the current mitigation pipeline is unlikely to reach.
 
 - **Classified: At‑Risk** — Recall‑focused ML pipeline predicting employee turnover; prioritized recall to surface at‑risk staff and minimize missed flags.  
   _Tech: Python · scikit‑learn · XGBoost · SHAP · pandas_  
@@ -38,19 +45,19 @@ Top work: **Classified: At‑Risk**, **Cyclistic Analytics**, **Capital Crashpad
   <a href="https://informedwanderer.com/workshop/capital-crashpad.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Surfaced a sharp decline in extended-stay (31+ night) listings and revenue compression across segments, illustrating how regulatory enforcement altered overall market composition.
 
-- **Cyclistic Analytics** — R‑based analysis of 5.8M rides to uncover rider behavior and segmentation for targeted strategy.  
-  _Tech: R · tidyverse · R Markdown · ggplot2_  
-  <a href="https://github.com/johbry17/Cyclistic-Analytics" target="_blank" rel="noopener noreferrer">Repo</a>
-  /
-  <a href="https://informedwanderer.com/workshop/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
-  Impact: Found casual riders averaged ~20‑minute weekend rides vs members’ ~12‑minute commutes; surfaced e‑bike adoption and geographic segments used to inform targeted marketing.
-
 - **Waypoints** — Interactive geospatial memoir mapping journeys across continents; layers routes, photos, and narrative into an exploratory travelogue.  
-  _Tech: Python · Leaflet · Overpass · OpenRouteService · GeoJSON_  
+  _Tech: Python · Leaflet.js · Overpass · OpenRouteService · GeoJSON_  
   <a href="https://github.com/johbry17/Waypoints-A-Personal-BioGeography" target="_blank" rel="noopener noreferrer">Repo</a>
   /
   <a href="https://informedwanderer.com/workshop/waypoints.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Showcases end‑to‑end geospatial pipelines, API integration, and mobile‑first map UX, demonstrating technical depth and personal data storytelling.
+
+<!-- - **Cyclistic Analytics** — R‑based analysis of 5.8M rides to uncover rider behavior and segmentation for targeted strategy.  
+  _Tech: R · tidyverse · R Markdown · ggplot2_  
+  <a href="https://github.com/johbry17/Cyclistic-Analytics" target="_blank" rel="noopener noreferrer">Repo</a>
+  /
+  <a href="https://informedwanderer.com/workshop/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  Impact: Found casual riders averaged ~20‑minute weekend rides vs members’ ~12‑minute commutes; surfaced e‑bike adoption and geographic segments used to inform targeted marketing. -->
 
 <br>
 
