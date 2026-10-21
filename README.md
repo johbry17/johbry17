@@ -1,4 +1,3 @@
-
 ![Masthead](./images/masthead_github_v3.png)
 
 # Bryan C. Johns — Data Storyteller & Analyst
@@ -7,7 +6,7 @@
 
 I help people understand the world so they can take better care of it.
 
-With a global perspective and systems mindset, I translate complex data into clear,  actionable analyses and visual stories that support real decisions—especially in mission-driven, interdisciplinary, or resource-constrained environments.
+With a global perspective and systems mindset, I translate complex data into clear, actionable analyses and visual stories that support real decisions—especially in mission-driven, interdisciplinary, or resource-constrained environments.
 
 **Open to contract & full‑time opportunities — [Email](mailto:bryan.johns@informedwanderer.com)**
 
@@ -15,7 +14,7 @@ Core tools: Python · SQL · R
 
 ---
 
-Top work: **Floodlines** · flood risk & federal mitigation policy, **Classified: At‑Risk** · employee attrition, **Capital Crashpad** · housing market enforcement. <small><em>Expand ↓ for case studies</em></small>
+Top work: **Floodlines** · flood risk & federal mitigation policy, **Capital Crashpad** · housing market enforcement, **Classified: At‑Risk** · employee attrition, **Walk to Mordor** · personal data storytelling, **Waypoints** · geospatial travel memoir. <small><em>Expand ↓ for case studies</em></small>
 
 <details id="featured-projects">
   <summary aria-label="Featured projects — expand to read case studies, technologies and impact">
@@ -30,13 +29,6 @@ Top work: **Floodlines** · flood risk & federal mitigation policy, **Classified
   /
   <a href="https://informedwanderer.com/workshop/floodlines.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Developed a transparent need index and lightweight screening tool that identified communities the current mitigation pipeline is unlikely to reach.
-
-- **Classified: At‑Risk** — Recall‑focused ML pipeline predicting employee turnover; prioritized recall to surface at‑risk staff and minimize missed flags.  
-  _Tech: Python · scikit‑learn · XGBoost · SHAP · pandas_  
-  <a href="https://github.com/johbry17/Salifort-Employee-Churn-ml" target="_blank" rel="noopener noreferrer">Repo</a>
-  /
-  <a href="https://informedwanderer.com/workshop/salifort-employee-churn.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
-  Impact: Model achieved 96.7% accuracy (94% recall, 87% precision); identified high‑risk groups by tenure, workload, and satisfaction—actionable for HR.
   
 - **Capital Crashpad** — Structural analysis dashboard examining enforcement-driven shifts in Washington, DC’s short-term rental market.  
   _Tech: Python · PostgreSQL · Django · Leaflet.js · pandas_  
@@ -45,6 +37,19 @@ Top work: **Floodlines** · flood risk & federal mitigation policy, **Classified
   <a href="https://informedwanderer.com/workshop/capital-crashpad.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Surfaced a sharp decline in extended-stay (31+ night) listings and revenue compression across segments, illustrating how regulatory enforcement altered overall market composition.
 
+- **Classified: At‑Risk** — Recall‑focused ML pipeline predicting employee turnover; prioritized recall to surface at‑risk staff and minimize missed flags.  
+  _Tech: Python · scikit‑learn · XGBoost · SHAP · pandas_  
+  <a href="https://github.com/johbry17/Salifort-Employee-Churn-ml" target="_blank" rel="noopener noreferrer">Repo</a>
+  /
+  <a href="https://informedwanderer.com/workshop/salifort-employee-churn.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  Impact: Model achieved 96.7% accuracy (94% recall, 87% precision); identified high‑risk groups by tenure, workload, and satisfaction—actionable for HR.
+
+- **Walk to Mordor** — Interactive data story mapping 806 days of personal walking onto three journeys through Middle-earth, connecting daily activity records with geographic routes, narrative milestones, and fictional chronology.  
+  _Tech: Python · JavaScript · HTML/CSS · Data Visualization_  
+  <a href="https://github.com/johbry17/Walk-to-Mordor" target="_blank" rel="noopener noreferrer">Repo</a> /
+  <a href="https://informedwanderer.com/workshop/walk-to-mordor.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  Impact: Transformed longitudinal activity data into an interactive narrative experience integrating route mapping, cumulative progress, and parallel timelines.
+
 - **Waypoints** — Interactive geospatial memoir mapping journeys across continents; layers routes, photos, and narrative into an exploratory travelogue.  
   _Tech: Python · Leaflet.js · Overpass · OpenRouteService · GeoJSON_  
   <a href="https://github.com/johbry17/Waypoints-A-Personal-BioGeography" target="_blank" rel="noopener noreferrer">Repo</a>
@@ -52,11 +57,11 @@ Top work: **Floodlines** · flood risk & federal mitigation policy, **Classified
   <a href="https://informedwanderer.com/workshop/waypoints.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
   Impact: Showcases end‑to‑end geospatial pipelines, API integration, and mobile‑first map UX, demonstrating technical depth and personal data storytelling.
 
-<!-- - **Cyclistic Analytics** — R‑based analysis of 5.8M rides to uncover rider behavior and segmentation for targeted strategy.  
-  _Tech: R · tidyverse · R Markdown · ggplot2_  
+<!-- - **Cyclistic Analytics** — R‑based analysis of 5.8M rides to uncover rider behavior and segmentation for targeted strategy.
+  _Tech: R · tidyverse · R Markdown · ggplot2_
   <a href="https://github.com/johbry17/Cyclistic-Analytics" target="_blank" rel="noopener noreferrer">Repo</a>
   /
-  <a href="https://informedwanderer.com/workshop/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>  
+  <a href="https://informedwanderer.com/workshop/cyclistic.html" target="_blank" rel="noopener noreferrer">Portfolio Page</a>
   Impact: Found casual riders averaged ~20‑minute weekend rides vs members’ ~12‑minute commutes; surfaced e‑bike adoption and geographic segments used to inform targeted marketing. -->
 
 <br>
@@ -97,8 +102,6 @@ My path to data ran through global development, environmental policy, and hospit
 My projects are thoughtful, reproducible, and well-documented, designed to communicate as clearly as they compute. I work in Python, SQL, and R, applying machine learning approaches and powerful visualization tools as needed.
 
 Beyond the pixels, I grow things, chase sunlight across continents, and get happily lost in novels, neighborhoods, and mountain switchbacks. Always learning: one book, one walk, one small project at a time.
-
-
 
 <br>
 
